@@ -50,7 +50,7 @@ public class HomeWork03 : MonoBehaviour
         }
 
         // 讀取輸入欄位的文字後，使用三元運算子判斷應該顯示何種道具提示
-        itemtext.text = item.text == "紅水" ? "恢復血量" : item.text == "藍水" ? "恢復魔力" : "輸入道具名稱";
+        itemtext.text = item.text == "Red Water" ? "恢復血量" : item.text == "Blue Water" ? "恢復魔力" : "輸入道具名稱";
     }
 
     // 創建製作地板的method
