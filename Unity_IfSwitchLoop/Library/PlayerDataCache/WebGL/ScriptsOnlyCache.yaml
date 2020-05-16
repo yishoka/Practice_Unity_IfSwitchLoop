@@ -515,4 +515,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: D:/ClassTest/hw3
+  playerPath: D:/ClassTest/Practice_Unity_IfSwitchLoop/Class5
